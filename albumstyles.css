@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+*{ margin: 0%; }
+
+.header {
+    font-family: 'Helvetica', white;
+    font-size: 300%;
+    text-align: center;
+    background-color: #282828;
+    margin: 0;
+    padding: 0;
+    top:0em;
+}
+
+h1 {
+    
+    top:0em;
+    color:white;
+}
+.head{
+    margin: 0;
+    padding: 0;
+  }
+
+body{
+background-color:#282828;
+}
+
+.card {
+    display:inline-block;
+    background-color: white;
+    width: 450px;
+    height:835px;
+    position: absolute;
+    left:10em;
+    top:12em;
+    border-radius: 25px;
+    
+}
+
+.container{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 45;
+}
+
+
+.buy {
+    width:450px;
+}
+.icon{
+    display: inline-block;
+    width: 50px;
+    left: 25px;
+    
+}
+.listen{
+    text-align: center;
+}
+
+.reviewInfo{
+    display:inline-block;
+    background-color:#f3f3f3;
+    width: 500px;
+    height: 450px;
+    position: absolute;
+    left:38.5em;
+    top:12em;
+    right: 10em;
+    border-radius: 20px;
+    box-shadow: rgba(0,0,0,0.2) 0px 2px 8px, inset rgba(0,0,0,0.2) 0px -1px 2px;
+    
+}
+
+.albumArt{
+    border-radius: 25px;
+    
+}
+.player{
+    display:inline-block;
+    position: absolute;
+    left:70em;
+    height: 400px;
+    top:12em;
+    right: 5em;
+    border-radius: 20px;
+}
+
+.spotify{
+    display:flexs;
+    position: absolute;
+    width:1163px;
+    left:38.5em;
+    height: 25px;
+    top:40.5em;
+    right: 5em;
+    border-radius: 20px;
+}
